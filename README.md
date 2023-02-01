@@ -1,3 +1,5 @@
+I have no idea what I am doing
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
